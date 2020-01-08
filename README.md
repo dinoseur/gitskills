@@ -8,7 +8,11 @@ Second test wrote in the server
 
 Thrid test with a branch 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creating a new branch is quick & quick
 =======
 Creating a new branch is quick AND simple
 >>>>>>> featurel
+=======
+Created Branch from server2
+>>>>>>> dev
