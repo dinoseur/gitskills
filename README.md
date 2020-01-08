@@ -7,4 +7,8 @@ Second test wrote in the server
 2020.01.08
 
 Thrid test with a branch 
+<<<<<<< HEAD
 Creating a new branch is quick & quick
+=======
+Creating a new branch is quick AND simple
+>>>>>>> featurel
